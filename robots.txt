@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oadeiheif.ordnungswache.at/sitemap.xml
